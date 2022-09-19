@@ -6,6 +6,8 @@ This repository contains the data for all figures and tests, and the code used t
 The parent repository can be found [here](https://github.com/DSHardman/SensorProbing).
 
 ## Data Availability
+(See releases for data).
+
 Time-series responses of the 8 sensor channels to the 3 damages (Figure 3) are given in *CuttingResponses/CuttingResponses.mat*.
 
 Characterisations of the 7 sensor states (Original, after each of the 3 damages and after each of the 3 heals) are stored in *SensorStates/* as
